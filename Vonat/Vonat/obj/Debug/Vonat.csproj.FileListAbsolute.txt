@@ -1,0 +1,7 @@
+C:\Users\szilg\source\repos\Vonat\Vonat\bin\Debug\Vonat.exe.config
+C:\Users\szilg\source\repos\Vonat\Vonat\bin\Debug\Vonat.exe
+C:\Users\szilg\source\repos\Vonat\Vonat\bin\Debug\Vonat.pdb
+C:\Users\szilg\source\repos\Vonat\Vonat\obj\Debug\Vonat.csprojAssemblyReference.cache
+C:\Users\szilg\source\repos\Vonat\Vonat\obj\Debug\Vonat.csproj.CoreCompileInputs.cache
+C:\Users\szilg\source\repos\Vonat\Vonat\obj\Debug\Vonat.exe
+C:\Users\szilg\source\repos\Vonat\Vonat\obj\Debug\Vonat.pdb

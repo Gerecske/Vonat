@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vonat", "Vonat\Vonat.csproj", "{FBFE0E67-E6E6-47AF-B0FB-77DAEC2CE40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFE0E67-E6E6-47AF-B0FB-77DAEC2CE40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFE0E67-E6E6-47AF-B0FB-77DAEC2CE40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFE0E67-E6E6-47AF-B0FB-77DAEC2CE40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFE0E67-E6E6-47AF-B0FB-77DAEC2CE40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D97035-9DB0-4DAA-9E4E-B2C20DED2AC6}
+	EndGlobalSection
+EndGlobal
